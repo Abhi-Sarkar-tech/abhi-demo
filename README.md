@@ -1,5 +1,5 @@
 # abhi-demo
 This is my first repository.
 <br>
-author = Abhi Sarkar
+Author = Abhi Sarkar
 
